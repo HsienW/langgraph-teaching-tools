@@ -9,6 +9,7 @@
 ## 簡介
 
 本專案是介紹如何使用 LangChain v1 與 LangGraph v1 建置代理的基礎概念。這是 LangChain Academy 的精簡版本，預期在 LangChain 工程師帶領的課程中執行。如果你想更深入學習，或自行完成教學，可參考 [LangChain Academy](https://academy.langchain.com/courses/intro-to-langgraph)。LangChain Academy 包含由 LangChain 工程師錄製的實用影片。
+
 **本專案僅做個人學習使用**。設計為透過 LangGraph Studio 執行 `/agents` 資料夾中的代理。每個代理都建立在前一個概念之上，形成循序漸進的學習體驗，讓你可以即時視覺化並互動。
 
 ## 背景
